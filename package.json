@@ -1,0 +1,22 @@
+{
+  "name": "fajar",
+  "version": "1.0.0",
+  "description": "belajar rest api pemrograman cloud computing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Fajar Adil Saputro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
